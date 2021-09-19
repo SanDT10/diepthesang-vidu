@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import net.javaguides.springmvc.entity.Customer;
 import net.javaguides.springmvc.service.CustomerService;
-// cho nay la moi sua negfdggdgdg
+// day la thay doi  moi nhat 
 @Controller
 @RequestMapping("/customer")
 public class CustomerController {
